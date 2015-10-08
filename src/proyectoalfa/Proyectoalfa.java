@@ -1,4 +1,4 @@
-
+package proyectoalfa;
 import java.util.Scanner;
 
 /*
